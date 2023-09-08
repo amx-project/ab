@@ -3,7 +3,7 @@ amx-a for UNVT Portable Bazaar (source)
 
 # Product CID
 ## New version (2023-09 update)
-QmQKr81RNT2mD3YJYoKhJnAMpyBPWeva6XtwjnCgJyjcRK
+QmaUSGVj8KQL5hAYzQ22UXwkJDf1CJtHHpX2bFjY5poSE1
 
 ## Old version (original)
 Qmej7y68RA3LVqbNeNUSoAGxe8zgcQrhqaZk7zxSJXBtr5
@@ -11,15 +11,15 @@ Qmej7y68RA3LVqbNeNUSoAGxe8zgcQrhqaZk7zxSJXBtr5
 # Demo
 ## For IPFS-enabled browsers
 ### New
-ipfs://QmQKr81RNT2mD3YJYoKhJnAMpyBPWeva6XtwjnCgJyjcRK
+ipfs://QmaUSGVj8KQL5hAYzQ22UXwkJDf1CJtHHpX2bFjY5poSE1
 
 ### Old
 ipfs://Qmej7y68RA3LVqbNeNUSoAGxe8zgcQrhqaZk7zxSJXBtr5
 
 ## Through IPFS gateway
 ### New
-https://smb.optgeo.org/ipfs/QmQKr81RNT2mD3YJYoKhJnAMpyBPWeva6XtwjnCgJyjcRK?filename=a.pmtiles
+https://smb.optgeo.org/ipfs/QmaUSGVj8KQL5hAYzQ22UXwkJDf1CJtHHpX2bFjY5poSE1
 
 ### Old
-https://smb.optgeo.org/ipfs/Qmej7y68RA3LVqbNeNUSoAGxe8zgcQrhqaZk7zxSJXBtr5?filename=a.pmtiles
+https://smb.optgeo.org/ipfs/Qmej7y68RA3LVqbNeNUSoAGxe8zgcQrhqaZk7zxSJXBtr5
 
